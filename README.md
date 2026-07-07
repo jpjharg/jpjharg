@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jacob 👋
 
-<!--
-**jpjharg/jpjharg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc AI, Imperial College London
+🎓 BSc Physics, University of Bristol 
+🔬 Research interests: inverse problems, scientific ML, material physics
+🛠️ Python · PyTorch · Pandas · Jupyter · C++  
+📫 LinkedIn: www.linkedin.com/in/jacob-h-6b1009331
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a physics graduate with a strong interest in applying machine learning 
+to scientific problems. My undergraduate dissertation used CNNs and the Richardson-Lucy 
+algorithm to deconvolve data related to Fermi surface research. In September 2026 I'm joining 
+Imperial College London on their MSc AI course. 
