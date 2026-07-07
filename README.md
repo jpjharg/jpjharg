@@ -1,9 +1,13 @@
 # Hi, I'm Jacob 👋
 
 🎓 MSc AI, Imperial College London
+
 🎓 BSc Physics, University of Bristol 
+
 🔬 Research interests: inverse problems, scientific ML, material physics
+
 🛠️ Python · PyTorch · Pandas · Jupyter · C++  
+
 📫 LinkedIn: www.linkedin.com/in/jacob-h-6b1009331
 
 ## About Me
