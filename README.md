@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 👋
 
-🎓 MSc AI, Imperial College London
+🎓 Incoming MSc AI, Imperial College London
 
 🎓 BSc Physics, University of Bristol 
 
